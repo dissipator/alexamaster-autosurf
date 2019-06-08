@@ -26,5 +26,5 @@
 出现错误后会自动重启浏览器。
 
 **如本项目对您有所帮助，欢迎Star。**
-本项目源自：
+本项目源自修改：
 "https://github.com/dxxzst/alexamaster-autosurf.git"

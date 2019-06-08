@@ -10,7 +10,7 @@
 
 ## 运行程序
 
-- 克隆本项目代码 `clone https://github.com/dxxzst/alexamaster-autosurf.git`
+- 克隆本项目代码 `clone https://github.com/dissipator/alexamaster-autosurf.git`
 - 修改lib/pub.js文件中的surURL为你的URL
 - 进入目录 `cd alexamaster-autosurf`
 - 安装资源 `npm install`
@@ -26,3 +26,5 @@
 出现错误后会自动重启浏览器。
 
 **如本项目对您有所帮助，欢迎Star。**
+本项目源自：
+"https://github.com/dxxzst/alexamaster-autosurf.git"
